@@ -6,6 +6,7 @@ langchain-openai>=0.1.0
 
 # OpenAI
 openai>=1.30.0
+langchain-mistralai>=1.1.6
 
 # Tavily Search Tool
 tavily-python>=0.3.0
